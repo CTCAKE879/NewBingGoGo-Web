@@ -1,5 +1,5 @@
 let joinStats = true;  //可选加入统计。 加入统计不会收集任何隐私信息，仅统计访问量。
-let webPath = 'https://raw.githubusercontent.com/jianjianai/NewBingGoGo-Web/master/src/main/resources'; //web页面地址，可以修改成自己的仓库来自定义前端页面
+let webPath = 'https://github.com/CTCAKE879/NewBingGoGo-Web/master/src/main/resources'; //web页面地址，可以修改成自己的仓库来自定义前端页面
 let serverConfig = {
     "h1": "NewBingGoGo",
     "h2": "简单开始和NewBing聊天",
@@ -44,7 +44,7 @@ let serverConfig = {
     ]
 }
 let cookies = [
-    ""
+    "_U=1cb5Uk23LGnazuQytY0vPhQJ1fWYnyQEVGiYoK3gbfabmqxgazewz0ft2bzQTEI9WKNElBHIMwGJIvyD-KCPL029vW6jr0PwBRbeAo7LT5XTFzQsRCgXyF1N2xfJpBx6XyE3FYxGncwLwziq1wlFjRYpRIaDF04qvaAeSFQd9nyMtYa3sgxtS4sbMvWJ88WU2tsN5Fm3ERwsOuKaUF25AAbpuPjRlJKy0GpwHXE1U5oY"
 ]
 
 
